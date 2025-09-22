@@ -1,3 +1,3 @@
 # Kloun
-Kloun is an alternate universe where instead of Jokers and jesters there are clowns, and money is something you absolutely must have. 
-These are just some ideas floating around. If you have any suggestions, let me know and I'll be happy to read them.
+Kloun is an alternate universe in which more clowns are added to the game as a replacement for jokers and jesters. In this universe, money is important. 
+Right now, it's like a demo that adds 12 jokers and a set of consumables. If you encounter an error or crash, please report it.
